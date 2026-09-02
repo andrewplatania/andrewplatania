@@ -16,7 +16,8 @@ Dallas, TX &middot; [platania.dev](https://platania.dev) &middot; [andrew@platan
 
 # ANDREW PLATANIA
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=40&duration=3000&pause=1000&color=5126EB&center=true&vCenter=true&width=900&lines=Enterprise+Software+Architecture;Artificial+Intelligence;Cloud+Native+Engineering;Distributed+Systems;Technology+Strategy;Building+Technology+for+Life."/>
+<img src="https://readme-typing-svg.demolab.com?
+https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9A3&center=true&vCenter=true&width=900&lines=Founder+%40+Delta+Studio;Self-Taught+Developer%2C+7%2B+Years;Dallas%2C+TX;Full-Stack+%26+Systems+Engineering;Building+Things+That+Ship;Always+Learning%2C+Always+Building.
 <br>
 
 <br>
