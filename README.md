@@ -22,7 +22,7 @@ Dallas, TX &middot; [platania.dev](https://platania.dev) &middot; [andrew@platan
 <br>
 
 ###
-<h2 align="left">A few things I'm experienced with</h2>
+<h2 align="left">Some things I have experience with</h2>
 
 ###
 
