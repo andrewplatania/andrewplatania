@@ -69,7 +69,7 @@ Dallas, TX &middot; [platania.dev](https://platania.dev) &middot; [andrew@platan
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-plain.svg" height="40" alt="proxmox logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/proxmox/proxmox-plain-wordmark.svg" height="40" alt="proxmox logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40" alt="cloudflare logo" />
   <img width="12" />
