@@ -16,7 +16,8 @@ Dallas, TX &middot; [platania.dev](https://platania.dev) &middot; [andrew@platan
 
 # ANDREW PLATANIA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Self-Taught+Developer%2C+7%2B+Years;Dallas%2C+TX;Full-Stack+%26+Systems+Engineering;Building+Things+That+Ship;Always+Learning%2C+Always+Building." alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Self-Taught+Developer%2C+7%2B+Years;Dallas%2C+TX;Full-Stack+%26+Systems+Engineering;Building+Things+That+Ship;Always+Learning%2C+Always+Building." width="600" height="50" alt="Self-Taught Developer, Dallas TX" />
+
 
 </div>
 
