@@ -4,7 +4,8 @@ What's actually public here is smaller stuff:
 
 - [Char.Count](https://github.com/andrewplatania/Char.Count) - a character counter
 - [Leetcode_Solver](https://github.com/andrewplatania/Leetcode_Solver) - solves leetcode questions
-- [Render-Pinger](https://github.com/andrewplatania/Render-Pinger) - keeps render free-tier websites from sleeping
+- [Service Pinger](https://github.com/andrewplatania/Render-Pinger) - keeps render free-tier websites from sleeping
+- [Scripture Shield](https://github.com/andrewplatania/scripture-shield) - offline desktop app that shows Bible verses (KJV and BSB) to quote out loud against temptation
 
 None of that is the interesting work, it's just the part I'm allowed to show. If you want the real picture, ask, I'd rather talk through it directly than have a pinned repo grid make the case for me.
 
